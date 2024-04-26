@@ -5,7 +5,7 @@ I aim to learn more about what's beneath the surface of everyday technology. I h
 Web Development and Information Technology.
 
 ## Currently learning the following:
-- Networking
+- Networking Fundamentals
 - High Performance Computing (HPC)
 - System Administration
 
