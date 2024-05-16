@@ -10,7 +10,7 @@ Web Development and Information Technology.
 - System Administration
 
 ## Stacks 🛠
-- **Frontend / Backend:** React.js, Bootstrap / Node.js, Next.js, Django
+- **Frontend / Backend:** React.js, Vue.js Bootstrap / Node.js, Next.js, Django
 - **Database / API:** PostgreSQL, MySQL, MongoDB, MariaDB / REST, GraphQL
 - **DevOps:** Docker, Maven, Jenkins
 - **Languages:** C/C++, Bash/Shell, Python, JavaScript, TypeScript, Perl, R
