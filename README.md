@@ -7,7 +7,8 @@ Web Development and Information Technology.
 ## Currently learning the following:
 - Networking Fundamentals
 - High Performance Computing (HPC)
-- System Administration
+- Linux System Administration
+- Amazon Web Services (Solutions Architect)
 
 ## Stacks 🛠
 - **Frontend / Backend:** React.js, Vue.js, Bootstrap / Node.js, Next.js, Django
