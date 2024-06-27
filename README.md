@@ -8,7 +8,7 @@ Web Development and Information Technology.
 - Networking Fundamentals
 - High Performance Computing (HPC)
 - Linux System Administration
-- Amazon Web Services (Solutions Architect)
+- Amazon Web Services (AWS)
 
 ## Stacks 🛠
 - **Frontend / Backend:** React.js, Vue.js, Bootstrap / Node.js, Next.js, Django
